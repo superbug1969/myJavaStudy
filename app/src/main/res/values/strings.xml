@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AvtivityTest64545455445</string>
+    <string name="add_title">GoListViewTest</string>
+    <string name="remove_title">Remove</string>
+    <string name="modify_title">Modify</string>
+    <string name="button1_title">Botton one</string>
+    <string name="button2_title">Second Activity</string>
+    <string name="botton3_title">Third Activity</string>
+</resources>
